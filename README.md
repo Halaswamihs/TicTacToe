@@ -1,6 +1,3 @@
-# TicTacToe
-TicTacToe game
-
 
 This Java code implements a graphical Tic-Tac-Toe game using the Swing framework from the Java AWT (Abstract Window Toolkit). Here's a detailed explanation:
 
